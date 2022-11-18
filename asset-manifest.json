@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SofiyaKalynovska/todo-app-on-react-toolkit/static/css/main.fa625ab2.css",
-    "main.js": "/SofiyaKalynovska/todo-app-on-react-toolkit/static/js/main.468cd47a.js",
+    "main.js": "/SofiyaKalynovska/todo-app-on-react-toolkit/static/js/main.e6234081.js",
     "index.html": "/SofiyaKalynovska/todo-app-on-react-toolkit/index.html",
     "main.fa625ab2.css.map": "/SofiyaKalynovska/todo-app-on-react-toolkit/static/css/main.fa625ab2.css.map",
-    "main.468cd47a.js.map": "/SofiyaKalynovska/todo-app-on-react-toolkit/static/js/main.468cd47a.js.map"
+    "main.e6234081.js.map": "/SofiyaKalynovska/todo-app-on-react-toolkit/static/js/main.e6234081.js.map"
   },
   "entrypoints": [
     "static/css/main.fa625ab2.css",
-    "static/js/main.468cd47a.js"
+    "static/js/main.e6234081.js"
   ]
 }
